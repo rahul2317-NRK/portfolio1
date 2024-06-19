@@ -330,20 +330,20 @@ nav .fa-solid{
 	font-size: 25px;
 }
 	.mini-task{
-		flex-basis: 60%;
+		flex-basis: 50%;
 		padding-left: 100px;
-		padding-top: 100px;
+		padding-top: 10px;
 	}
 	.header-text,.sudo{
-		font-size: 40px;
+		font-size: 30px;
 		font-weight: 100;
 	}
 	.mini-task p{
-		font-size:12px;
+		font-size:15px;
 	}
 	
 	.task img{
-		flex-basis: 60%;
+		flex-basis: 50%;
 		height: 300px;
 		width: 300px;
 		padding-top: 10px;

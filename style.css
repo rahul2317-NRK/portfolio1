@@ -321,15 +321,11 @@ nav .fa-solid{
 
 @media only screen and (max-width:600px){
 	#header{
-	justify-content: space-between;
-		
-		
-		background-position: right;
-
 	}
+	
 	.header-text{
 		margin-top: 35%;
-		font-size: 15px;
+		font-size: 25px;
 	}
 	.header-text h1{
 		font-size: 30px;
@@ -338,6 +334,9 @@ nav .fa-solid{
 	color: #c73232;
 	font-size: 25px;
 }
+	.mini-task{
+		flex-basis: 30%;
+	}
 
 	nav .fa-solid{
 		display: block;

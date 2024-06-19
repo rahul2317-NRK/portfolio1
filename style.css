@@ -337,6 +337,11 @@ nav .fa-solid{
 	.mini-task{
 		flex-basis: 30%;
 	}
+	mini-task img{
+		flex-basis: 40%;
+		height: auto;
+		width:auto;
+	}
 
 	nav .fa-solid{
 		display: block;

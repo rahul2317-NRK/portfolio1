@@ -74,7 +74,7 @@ nav ul li a:hover::after{
 }
 .task{
 	display: flex;
-	justify-content: center;
+	justify-content: right;
 	color:#C7D4E4;
 }
 .mini-task{
@@ -336,7 +336,7 @@ nav .fa-solid{
 	.task img{
 		flex-basis: 40%;
 		height: 300px;
-		width: 200px;
+		width: 100px;
 		padding-top: 20px;
 	}
 

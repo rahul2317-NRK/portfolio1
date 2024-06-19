@@ -330,7 +330,7 @@ nav .fa-solid{
 	font-size: 25px;
 }
 	.mini-task{
-		flex-basis: 50%;
+		flex-basis: 40%;
 		padding-left: 100px;
 		padding-top: 10px;
 	}
@@ -345,9 +345,9 @@ nav .fa-solid{
 	.task img{
 		flex-basis: 40%;
 		height: 200px;
-		width: 300px;
+		width: 200px;
 		padding-top: 10px;
-		border-radius: 10px;
+		border-radius: 50px;
 	}
         .task{
 	        display: flex;

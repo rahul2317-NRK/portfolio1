@@ -15,7 +15,7 @@ body{
 	height: 100vh;
 }
 .container{
-	padding: 10px 10%;
+	padding: 25px 10%;
 }
 nav{
 	display: flex;
@@ -226,15 +226,16 @@ nav ul li a:hover::after{
 	list-style: none;
     margin: 10px 20px;
     color: #b54769;
-    padding: 40px 0px;
+    padding: 35px 25px;
 }
 .service-list{
 	display: flex;
-	margin: 20px 0 40px;
+	margin: 50px 0 40px 0;
 }
 .robo {
 	font-size: 30px;
-
+        margin: 10px 20px;
+	padding: 20px;
 }
 
 /*----------------------------contact-------------------*/
@@ -353,7 +354,7 @@ nav .fa-solid{
 		padding-left: 20px;
 	}
 	nav ul{
-		background: navyblue;
+		background: blue;
 		position: fixed;
 		top: 0;
 		right: -200px;
@@ -388,9 +389,18 @@ nav .fa-solid{
 		font-size: 14px;
 
 	}
-	.robo i{
+	.robo li{
+		padding: 20px 0;
 		font-size: 25px;
+		margin-right: 5px;
 
+	}
+	.robo{
+		margin: 0 5px;
+		padding-right:5px;
+	}
+	.service-list{
+		margin-bottom: 20px;
 	}
 	.service-list ul li{
 		padding-right: 10px;
@@ -406,10 +416,9 @@ nav .fa-solid{
 	}
 	.copyright{
 		font-size: 14px;
-		width: 100%;
 		
 	}
-#msg{
+        #msg{
 	color: whitesmoke;
 	margin-top: -2px;
 	display: block;

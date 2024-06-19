@@ -331,11 +331,11 @@ nav .fa-solid{
 }
 	.mini-task{
 		flex-basis: 60%;
-		padding-left: 10px;
+		padding-left: 100px;
 		padding-top: 100px;
 	}
 	.header-text,.sudo{
-		font-size: 20px;
+		font-size: 40px;
 		font-weight: 100;
 	}
 	.mini-task p{
@@ -343,10 +343,10 @@ nav .fa-solid{
 	}
 	
 	.task img{
-		flex-basis: 40%;
+		flex-basis: 60%;
 		height: 300px;
-		width: 100px;
-		padding-top: 100px;
+		width: 300px;
+		padding-top: 10px;
 		border-radius: 10px;
 	}
         .task{

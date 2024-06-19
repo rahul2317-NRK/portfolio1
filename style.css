@@ -395,12 +395,7 @@ nav .fa-solid{
 		font-size: 14px;
 
 	}
-	.robo li{
-		padding: 20px 0;
-		font-size: 25px;
-		margin-right: 5px;
-
-	}
+/*------------------------------Skills---------------*/	
 	.robo i{
 		margin: 0 5px;
 		padding-right:5px;
@@ -417,6 +412,7 @@ nav .fa-solid{
 		font-size: 16px;
 		margin-right: 20px;
 	}
+/*------------------------Contact------------------------------*/	
 	.contact-left, .contact-right{
 		flex-basis: 100%;
 	}

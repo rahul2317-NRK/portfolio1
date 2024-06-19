@@ -344,10 +344,11 @@ nav .fa-solid{
 	
 	.task img{
 		flex-basis: 50%;
-		height: 80%;
-		width: 100px;
+		height: 800px;
+		width: 200px;
 		border-radius: 50px;
 		margin-top: 20px;
+		margin-left: 50px;
 		
 	}
         .task{

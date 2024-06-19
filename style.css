@@ -350,7 +350,8 @@ nav .fa-solid{
 		border-radius: 10px;
 	}
         .task{
-		justify-content:right;
+	
+		flex-direction: rows;
 	}
 	nav .fa-solid{
 		display: block;
@@ -398,9 +399,9 @@ nav .fa-solid{
 /*------------------------------Skills---------------*/	
 	.robo li{
 		padding: 10px 0;
-		font-size: 30px;
-		margin:10 10px;
-		font-weight: 100;
+		font-size: 20px;
+		margin:10px 10px;
+		font-weight: 400;
 
 	}
 	.robo{
@@ -409,7 +410,7 @@ nav .fa-solid{
 	}
 	.robo i{
 		font-size: 20px;
-		padding: 0 10px;
+		padding: 0 15px;
 	}
 
 	.tab-links{

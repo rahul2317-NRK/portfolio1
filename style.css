@@ -350,8 +350,8 @@ nav .fa-solid{
 		border-radius: 10px;
 	}
         .task{
-	
-		flex-direction: rows;
+	        display: flex;
+		flex-direction: column;
 	}
 	nav .fa-solid{
 		display: block;

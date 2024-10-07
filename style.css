@@ -25,6 +25,7 @@ nav{
 	position: fixed;
 	top: 0;
 	background-color: #E5E7E9; 
+	width: 50%;
 }
 .logo{
 	width: 120px;
@@ -80,6 +81,7 @@ nav ul li a:hover::after{
 	justify-content: center;
 	color:#C7D4E4;
 	padding-top: 20px;
+	top: 50px;
 }
 .mini-task{
 	flex-basis: 40%;

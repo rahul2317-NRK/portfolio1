@@ -23,8 +23,10 @@ nav{
 	align-items: center;
 	flex-wrap: wrap;
 	background-color: #E5E7E9;
-	position: sticky;
+	position: fixed;
 	overflow: hidden;
+	top: -50px;
+	transistion: 0.3s;
 }
 .logo{
 	width: 120px;

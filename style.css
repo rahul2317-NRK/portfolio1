@@ -23,6 +23,8 @@ nav{
 	align-items: center;
 	flex-wrap: wrap;
 	background-color: #E5E7E9;
+	position: sticky;
+	overflow: hidden;
 }
 .logo{
 	width: 120px;

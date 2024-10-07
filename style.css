@@ -22,10 +22,7 @@ nav{
 	justify-content: space-between;
 	align-items: center;
 	flex-wrap: wrap;
-	position: fixed;
-	top: 0;
-	background-color: #E5E7E9; 
-	width: 50%;
+	background-color: #E5E7E9;
 }
 .logo{
 	width: 120px;
